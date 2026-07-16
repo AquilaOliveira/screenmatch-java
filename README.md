@@ -14,15 +14,15 @@ O projeto foi desenvolvido durante meus estudos de Java, com foco em Programaç�
 
 ### Busca de um título
 
-> Adicione aqui um print mostrando uma busca.
+![Buscando um filme no ScreenMatch](assets/busca-titulo.png)
 
 ### Exportação para JSON
 
-> Adicione aqui um print mostrando o arquivo gerado.
+![Arquivo JSON gerado](assets/exportacao-json.png)
 
 ### Vídeo
 
-Você também pode adicionar um GIF da aplicação ou anexar um vídeo no repositório.
+![Demonstração do ScreenMatch em funcionamento](assets/funcionamento.gif)
 
 ---
 
