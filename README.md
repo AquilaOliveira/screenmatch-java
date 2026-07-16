@@ -10,7 +10,7 @@ O projeto foi desenvolvido durante meus estudos de Java, com foco em Programaç�
 
 ### Menu da aplicação
 
-> Adicione aqui um print da tela inicial.
+![Menu Inicial do ScreenMatch](assets/menu-inicial.png)
 
 ### Busca de um título
 
