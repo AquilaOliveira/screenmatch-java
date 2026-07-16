@@ -16,6 +16,10 @@ O projeto foi desenvolvido durante meus estudos de Java, com foco em Programaç�
 
 ![Buscando um filme no ScreenMatch](assets/busca-titulo.png)
 
+### Listando títulos buscados
+
+![Listando títulos buscados](assets/listando.png)
+
 ### Exportação para JSON
 
 ![Arquivo JSON gerado](assets/exportacao-json.png)
