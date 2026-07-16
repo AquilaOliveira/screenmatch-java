@@ -16,6 +16,10 @@ O projeto foi desenvolvido durante meus estudos de Java, com foco em Programaç�
 
 ![Buscando um filme no ScreenMatch](assets/busca-titulo.png)
 
+### Listando títulos buscados
+
+![Listando títulos buscados](assets/listando.png)
+
 ### Exportação para JSON
 
 ![Arquivo JSON gerado](assets/exportacao-json.png)
@@ -178,4 +182,4 @@ Durante o desenvolvimento foram utilizados conceitos como:
 Estudante de Análise e Desenvolvimento de Sistemas (IFSP)
 
 - LinkedIn: https://www.linkedin.com/in/aquila-oliveira
-- GitHub: https://github.com/SEU_USUARIO
+- GitHub: https://github.com/AquilaOliveira
