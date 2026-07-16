@@ -178,4 +178,4 @@ Durante o desenvolvimento foram utilizados conceitos como:
 Estudante de Análise e Desenvolvimento de Sistemas (IFSP)
 
 - LinkedIn: https://www.linkedin.com/in/aquila-oliveira
-- GitHub: https://github.com/SEU_USUARIO
+- GitHub: https://github.com/AquilaOliveira
